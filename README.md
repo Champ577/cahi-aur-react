@@ -1,2 +1,2 @@
-# cahi-aur-react
+# chai-aur-react
 Learning React Js
